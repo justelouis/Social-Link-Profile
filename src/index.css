@@ -1,4 +1,4 @@
-:root {
+:root{
   --green: hsl(75, 94%, 57%);
   --white: hsl(0, 0%, 100%);
   --grey700: hsl(0, 0%, 20%);
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-  font-family: 'Inter';
+  font-family: "Inter";
   src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
 * {
@@ -19,7 +19,8 @@ body {
   margin: 0;
 }
 
-body {
+body
+{
   width: 100dvw;
   height: 100dvh;
   font-family: 'Inter';
@@ -28,4 +29,5 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+
 }
