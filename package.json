@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "format:check": "npx prettier . --check",
+    "format": "npx prettier . --write"
   },
   "dependencies": {
     "react": "^19.3.1",
@@ -25,6 +27,7 @@
     "globals": "^17.13.0",
     "typescript": "~6.0.3",
     "typescript-eslint": "^8.72.1",
-    "vite": "^8.3.6"
+    "vite": "^8.3.6",
+    "prettier": "^3.10.0"
   }
 }
