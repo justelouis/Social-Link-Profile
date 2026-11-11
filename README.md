@@ -19,7 +19,7 @@ Remake a social links page. I decided to make this with React for train this fra
 
 ### What I learned
 
-...
+This project allowed me to review the basics of React and learn how to follow a design
 
 ## Author
 
