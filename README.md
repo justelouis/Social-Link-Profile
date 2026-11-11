@@ -6,9 +6,7 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
 
 ### The challenge
 
-Users should be able to:
-
-- Remake a social links page. I decided to make this with React for train this framework.  You will find all the screenshots of the challenge in the frontendMentor/design folder. 
+Remake a social links page. I decided to make this with React for train this framework.  You will find all the screenshots of the challenge in the frontendMentor/design folder. 
 
 ## My process
 
